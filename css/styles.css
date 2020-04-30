@@ -1,0 +1,80 @@
+/* elements */
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 8rem;
+}
+
+h2 {
+  font-size: 4rem;
+  margin: 20px;
+}
+
+p {
+  margin: 20px;
+}
+
+/* classes */
+.introBlock {
+  background-color: #30475e;
+  padding: 50px 0 30px 0;
+  text-align: center;
+}
+
+.site-name {
+  font-family: 'Lobster', cursive;
+  color: white;
+  margin-bottom: 0;
+}
+
+.sub-title {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.profile {
+  padding: 1%;
+  margin: auto;
+}
+
+.profile-pic {
+  margin: 20px;
+  border-radius: 100%;
+  border: 2px solid;
+  border-color: #c1a57b;
+  height: 40%;
+}
+
+.profile-description {
+  text-align: left;
+  text-align: top;
+}
+
+.profile-container {
+  text-align: center;
+}
+
+.projects {
+  margin: 2%;
+  text-align: center;
+}
+
+.project-list {
+  width: 900px;
+  text-align: left;
+  margin: 0 auto 10px auto;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.copyright {
+  display: inline;
+}
+
+/* id */
